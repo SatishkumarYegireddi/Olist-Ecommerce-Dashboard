@@ -58,18 +58,6 @@ These datasets are connected using common keys such as `order_id`, `customer_id`
 
 ## 📊 Dashboard Features
 
-- 📈 Total Revenue
-- 📦 Total Orders
-- 💰 Average Order Value (AOV)
-- 📅 Monthly Sales Trend
-- 📊 Month-over-Month Growth
-- 🛍️ Top Product Categories
-- 🚚 Delivery Performance Analysis
-- ⭐ Customer Review Insights
-- 👥 Customer Retention Analysis
-- 🌎 Regional Sales Performance
-### Dashboard Features
-
 - Key business KPIs: Revenue, Orders, Customers, and Average Order Value
 - Monthly revenue trends and month-over-month growth
 - Top product categories by orders, items sold, and product revenue
