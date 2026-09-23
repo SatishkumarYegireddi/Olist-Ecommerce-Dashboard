@@ -123,11 +123,6 @@ git clone https://github.com/SatishkumarYegireddi/Olist-Ecommerce-Dashboard.git
 cd Olist-Ecommerce-Dashboard
 ```
 
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Download the dataset
 
