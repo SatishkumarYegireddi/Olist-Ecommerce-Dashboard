@@ -68,6 +68,17 @@ These datasets are connected using common keys such as `order_id`, `customer_id`
 - ⭐ Customer Review Insights
 - 👥 Customer Retention Analysis
 - 🌎 Regional Sales Performance
+### Dashboard Features
+
+- Key business KPIs: Revenue, Orders, Customers, and Average Order Value
+- Monthly revenue trends and month-over-month growth
+- Top product categories by orders, items sold, and product revenue
+- Delivery performance and late-delivery analysis
+- Regional fulfillment performance by customer state
+- Monthly cohort retention analysis
+- Payment method breakdown
+- Top customers by historical value
+- Category-based product explorer
 
 ---
 
